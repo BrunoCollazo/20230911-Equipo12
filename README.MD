@@ -1,4 +1,4 @@
-# ** Bruno Collazo **
+# **Bruno Collazo**
 
 ## Uruguay 
 
